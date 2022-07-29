@@ -43,14 +43,14 @@
     <published>2021-12-20T15:16:41.000Z</published>
     <updated>2022-07-28T23:30:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p>##Writing this in DC Library</p>    <div id="aplayer-trHghoMl" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"    ></div><p>Fuck yeah! Looks like aplayer is correctly working. Thx 三硝基苯甲！<br>The next step is to modify thesongs and try to implement aplaylist system<br>The two following tutuorials were super useful:<br> <a href="https://easyhexo.com/3-Plugins-use-and-config/3-1-hexo-tag-aplayer/#%E4%BB%8B%E7%BB%8D">https://easyhexo.com/3-Plugins-use-and-config/3-1-hexo-tag-aplayer/#%E4%BB%8B%E7%BB%8D</a><br> <a href="https://easyhexo.com/5-Add/5-2-yaml.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95">https://easyhexo.com/5-Add/5-2-yaml.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95</a> </p><p>The 2d-live thing also seems to be working, its kind of cringe though. I only installed the module using cmd so its weird that it is already working. Gonna tweek the size next. (size of the module)</p><p>Following some random guy on bilibili and trying to build a simple blog website</p>]]></content>
+    <content type="html"><![CDATA[<p>##Writing this in DC Library</p>    <div id="aplayer-pXLMsgzK" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"    ></div><p>Fuck yeah! Looks like aplayer is correctly working. Thx 三硝基苯甲！<br>The next step is to modify thesongs and try to implement aplaylist system<br>The two following tutuorials were super useful:<br> <a href="https://easyhexo.com/3-Plugins-use-and-config/3-1-hexo-tag-aplayer/#%E4%BB%8B%E7%BB%8D">https://easyhexo.com/3-Plugins-use-and-config/3-1-hexo-tag-aplayer/#%E4%BB%8B%E7%BB%8D</a><br> <a href="https://easyhexo.com/5-Add/5-2-yaml.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95">https://easyhexo.com/5-Add/5-2-yaml.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95</a> </p><p>The 2d-live thing also seems to be working, its kind of cringe though. I only installed the module using cmd so its weird that it is already working. Gonna tweek the size next. (size of the module)</p><p>Following some random guy on bilibili and trying to build a simple blog website</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;##Writing this in DC Library&lt;/p&gt;
 
-    &lt;div id=&quot;aplayer-trHghoMl&quot; class=&quot;aplayer aplayer-tag-marker meting-tag-marker&quot;
+    &lt;div id=&quot;aplayer-pXLMsgzK&quot; class=&quot;aplayer aplayer-tag-marker meting-tag-marker&quot;
          data-id=&quot;0</summary>
       
     
