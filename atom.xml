@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Haku&#39;s blog</title>
+  
+  <subtitle>or should i say boring life</subtitle>
+  <link href="https://hakuuww.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hakuuww.github.io/"/>
+  <updated>2022-07-28T23:30:00.000Z</updated>
+  <id>https://hakuuww.github.io/</id>
+  
+  <author>
+    <name>Haku</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hakuuww.github.io/2022/07/28/hello-world/"/>
+    <id>https://hakuuww.github.io/2022/07/28/hello-world/</id>
+    <published>2022-07-28T19:33:11.663Z</published>
+    <updated>2022-07-28T23:30:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><script>console.error("Error: [hexo-tag-aplayer] Unrecognized tag argument(2): autoplay=false");</script> <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我在干啥（hexo tinkering log）</title>
+    <link href="https://hakuuww.github.io/2021/12/20/%E6%88%91%E5%9C%A8%E5%B9%B2%E5%95%A5/"/>
+    <id>https://hakuuww.github.io/2021/12/20/%E6%88%91%E5%9C%A8%E5%B9%B2%E5%95%A5/</id>
+    <published>2021-12-20T15:16:41.000Z</published>
+    <updated>2022-07-28T23:30:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>##Writing this in DC Library</p>    <div id="aplayer-EvktHLti" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"    ></div><p>Fuck yeah! Looks like aplayer is correctly working. Thx 三硝基苯甲！<br>The next step is to modify thesongs and try to implement aplaylist system<br>The two following tutuorials were super useful:<br> <a href="https://easyhexo.com/3-Plugins-use-and-config/3-1-hexo-tag-aplayer/#%E4%BB%8B%E7%BB%8D">https://easyhexo.com/3-Plugins-use-and-config/3-1-hexo-tag-aplayer/#%E4%BB%8B%E7%BB%8D</a><br> <a href="https://easyhexo.com/5-Add/5-2-yaml.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95">https://easyhexo.com/5-Add/5-2-yaml.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95</a> </p><p>The 2d-live thing also seems to be working, its kind of cringe though. I only installed the module using cmd so its weird that it is already working. Gonna tweek the size next. (size of the module)</p><p>Following some random guy on bilibili and trying to build a simple blog website</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##Writing this in DC Library&lt;/p&gt;
+
+    &lt;div id=&quot;aplayer-EvktHLti&quot; class=&quot;aplayer aplayer-tag-marker meting-tag-marker&quot;
+         data-id=&quot;0</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
