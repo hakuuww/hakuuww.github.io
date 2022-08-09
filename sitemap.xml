@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hakuuww.github.io/2021/12/20/%E6%88%91%E5%9C%A8%E5%B9%B2%E5%95%A5/</loc>
+    
+    <lastmod>2022-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hakuuww.github.io/about/index.html</loc>
     
     <lastmod>2022-08-09</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://hakuuww.github.io/2022/07/28/hello-world/</loc>
-    
-    <lastmod>2022-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hakuuww.github.io/2021/12/20/%E6%88%91%E5%9C%A8%E5%B9%B2%E5%95%A5/</loc>
     
     <lastmod>2022-07-28</lastmod>
     
