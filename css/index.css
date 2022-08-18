@@ -2349,13 +2349,7 @@ blockquote footer cite:before {
   border-radius: 8px 0 0 8px;
 }
 #recent-posts > .recent-post-item .right_radius {
-  -webkit-box-ordinal-group: 2;
-  -moz-box-ordinal-group: 2;
-  -o-box-ordinal-group: 2;
-  -ms-flex-order: 2;
-  -webkit-order: 2;
-  order: 2;
-  border-radius: 0 8px 8px 0;
+  border-radius: 8px 0 0 8px;
 }
 #recent-posts > .recent-post-item.ads-wrap {
   display: block !important;
@@ -3338,11 +3332,11 @@ blockquote footer cite:before {
   font-size: 30px;
 }
 #page-header.not-home-page {
-  height: 20rem;
+  height: 40rem;
 }
 @media screen and (max-width: 768px) {
   #page-header.not-home-page {
-    height: 14rem;
+    height: 20rem;
   }
 }
 #page-header #page-site-info {
@@ -3357,7 +3351,7 @@ blockquote footer cite:before {
   }
 }
 #page-header.post-bg {
-  height: 20rem;
+  height: 24rem;
 }
 @media screen and (max-width: 768px) {
   #page-header.post-bg {
@@ -3395,7 +3389,7 @@ blockquote footer cite:before {
 }
 #page-header.not-top-img {
   margin-bottom: 0.5rem;
-  height: 60px;
+  height: 80px;
   background: 0;
 }
 #page-header.not-top-img #nav {
